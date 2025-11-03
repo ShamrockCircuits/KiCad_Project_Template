@@ -108,6 +108,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -541,7 +542,7 @@
       "svg": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "kicad-embed://pcb_title.kicad_wks"
+    "page_layout_descr_file": "template/pcb_title.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -690,7 +691,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "kicad-embed://sch_title.kicad_wks",
+    "page_layout_descr_file": "template\\sch_title.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
