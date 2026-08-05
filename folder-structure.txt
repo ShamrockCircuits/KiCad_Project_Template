@@ -1,14 +1,3 @@
-TODO
-> Annular ring rule is borked... not good for JLC normal via
-> Include JLCJLCJLC footprint by default
-> Include Shamrock Circuits logo
-> Include SN# footprint
-
-REMINDER
-> We are standardizing library locations
---- Store custom KiCad library at C:\\0_GITHUB
---- Standard paths, help us work across different computers :)
-
 *** FILE STRUCTURE EXAMPLE ***
 
 Project
