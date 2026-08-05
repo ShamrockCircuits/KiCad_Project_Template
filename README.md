@@ -1,4 +1,24 @@
-# PROJECT NAME - REV00
+<a id="readme-top"></a>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/misc/ShamrockBanner_FloatBlack.png" alt="Logo" width=600>
+  </a>
+
+  <h1 align="center">Project Name - REV00</h1>
+
+  <p align="center">
+    A very short two line project introduction.<br />
+    Another <a href="https://google.com"><strong>link</strong></a> package.
+    <br />
+    <br />
+    <a href="https://youtube.com">View Demo</a>
+
+  </p>
+</div>
+
 ## Introduction
 <!-- High level overview of what the project is and does -->
 "Did you ever hear the tragedy of Darth Plagueis the Wise?"
