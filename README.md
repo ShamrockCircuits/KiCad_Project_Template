@@ -25,7 +25,9 @@
 "No."
 "I thought not. It's not a story a Jedi would tell you. It's a Sith legend. Darth Plagueis... was a Dark Lord of the Sith so powerful and so wise, he could use the Force to influence the midi-chlorians... to create... life. He had such a knowledge of the dark side, he could even keep the ones he cared about... from dying."
 
-![3D Render](images/hero.png)
+<p align="center">
+  <img src="images/hero.png" width="55%" alt="PCB top layout" />
+</p>
 
 ## Motivation
 <!-- Why I bothered making this -->
@@ -40,9 +42,10 @@
 - to learn this power?
 
 ## How it fits together
-
 <!-- IMAGE: Block diagram -->
-![Block Diagram](images/block-diagram.png)
+<p align="center">
+  <img src="images/block-diagram.png" width="55%" alt="Block Diagram" />
+</p>
 
 ## Gallery
 
